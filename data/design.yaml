@@ -1,0 +1,88 @@
+---
+logo_or_title:
+  upload_logo: "/uploads/cropped-logotrans.png"
+  title: Real Estate Sample
+  favicon: ''
+main_image:
+  hero_subtitle: Find your dream home
+  home_background_image: "/uploads/shutterstock_683283169.jpg"
+  video_background: true
+  upload_video: ''
+  add_url_to_youtube_video: pY2CWYxUbrM
+  hero_title: OUR LUXURY REAL ESTATE
+  align_hero_text: has-text-centered
+  add_a_button:
+    hero_button_text: VIEW LISTINGS
+    hero_button_link: "/listings"
+    open_in_new_tab: false
+    hero_button_text_color: "#000000"
+    hero_button_bg_color: "#ffffff"
+  add_mp4_link: https://hungryram.s3-us-west-1.amazonaws.com/ocean.mp4
+  add_youtube_background_video: false
+home_sections:
+- template: intro
+  intro_title: Discover Our Finest Homes
+  intro_body: Each section of the home page can be arranged and customized through
+    your phone or computer. Easily manage your website through our website editor
+    customized specifically for real estate professionals.
+  add_photo: "/uploads/office.jpg"
+  intro_align_text: has-text-left
+  intro_background_color: "#FFFFFF"
+  intro_add_button:
+    button_label: Learn more
+    intro_button_link: "/contact"
+    intro_open_in_a_new_tab: true
+    intro_button_background_color: "#464646"
+    intro_button_text_color: "#E2E2E2"
+  intro_enable_white_text_color: false
+- template: featured-listings
+  active_align_title_text: has-text-centered
+  active_listing_title: Our Featured Exclusives​
+  listing_subtitle: View our most featured office listings by Real Estate Brokerage.
+    Contact us for more questions regarding these listings.
+  active_background_color: ''
+  active_enable_white_text_color: false
+- template: featured-tiles
+  top_left_tile:
+    top_left_featured_title: Los Angeles
+    top_left_link_to_property: "/listings"
+    top_left_featured_image: "/uploads/kichen-1.jpg"
+  bottom_left_tile:
+    featured_title: San Diego
+    featured_image: "/uploads/main.jpg"
+    bottom_left_link_to_property: "/san-diego"
+  right_tile:
+    featured_title: Orange County
+    featured_image: "/uploads/whiteinterior.jpg"
+    right_link_to_property: "/orange-county"
+  tile_background_color: ''
+- template: agent-slider
+  agent_text_align: has-text-centered
+  agent_title: Our Team
+  agent_subtitle: Our team of real estate professionals are ready to help you
+  agent_background: ''
+- template: featured-blog
+  blog_align_title_text: has-text-centered
+  blog_title: Our Latest Posts
+  blog_subtitle: View our latest posts for useful information
+  blog_background: "#FFFFFF"
+  blog_enable_white_text_color: false
+- template: testimonial-slider
+  testimonial_slider_title: Client Reviews
+  testimonial_slider_subtitle: Our clients love us
+sub_pages:
+  sub_page_image: "/uploads/main.jpg"
+footer:
+  footer_background: "#000000"
+  footer_bio: The footer can be adjusted to the color you need. Use a background image
+    or background color of your choice. Contact me for a full demo.
+  disable_background_color: true
+  footer_background_image: "/uploads/shutterstock_43273009.jpg"
+  enable_black_text: false
+colors:
+  text_link_colors: rgb(169, 140, 83)
+  button_background_colors: "#A98C53"
+  header_background_color: "#0B1723"
+  navigation_link_color: "#BA0000"
+  enable_black_menu_items: false
+upload_image: ''
